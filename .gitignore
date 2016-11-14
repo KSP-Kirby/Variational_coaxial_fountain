@@ -1,0 +1,5 @@
+# generated depth maps
+depthMap*.mat
+
+# temp files
+~*.tmp
